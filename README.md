@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=barisozkir&label=Profile%20views&color=0e75b6&style=flat" alt="barisozkir" /> </p>
 
-- 🔭 I’m currently working on [PasSB. Which is a portable Password Manager App works on USB Devices.](https://github.com/barisozkir/PasSB)
+- 🔭 I’m currently working on [PasSB](https://github.com/barisozkir/PasSB). Which is a portable Password Manager App works on USB Devices.
 
 - 🌱 I’m currently learning **AI Asisstants for making my own JARVIS-like assistant.**
 
