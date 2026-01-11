@@ -1,5 +1,6 @@
-<h1 align="center">Hi everyone 👋, I'm barisozkir</h1>
+<h1 align="center">Hi everyone 👋, I'm Barış</h1>
 <h3 align="center">I am a coder who loves to work with everything. I'm not a person who works with only one or two languages. I use whichone I need to do in my mind.</h3>
+<h3 align="center">I am also a musician and streamer. Playing bass and streaming irl & games on kick is what I do. I am a engineer who has more social life than online side.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=barisozkir&label=Profile%20views&color=0e75b6&style=flat" alt="barisozkir" /> </p>
 
